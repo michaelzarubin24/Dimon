@@ -48,6 +48,6 @@ function add(a, b) {
   return a + b;
 }
 
-console.log(multiply(5, 3)); // 15
-console.log(subtract(10, 7)); // 3
-console.log(add(2, 8)); // 10
+console.log(multiply(5, 3));
+console.log(subtract(10, 7));
+console.log(add(2, 8));
